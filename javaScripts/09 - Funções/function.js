@@ -7,4 +7,4 @@
         return area;
     }
     
-    console.log(calculaAreaTerreno(15, 25));
+    console.log(calculaAreaTerreno(25, 25));
